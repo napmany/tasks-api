@@ -1,0 +1,13 @@
+addr: :9080
+
+mongohosts: localhost:27017
+
+mongodatabase: db_test
+
+mongousername: ""
+
+mongopassword: ""
+
+collection: tasks
+
+taskexecutiontimeseconds: 3

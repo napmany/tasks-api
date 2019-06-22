@@ -1,0 +1,13 @@
+addr: :80
+
+mongohosts: mongodb:27017
+
+mongodatabase: db
+
+mongousername: ""
+
+mongopassword: ""
+
+collection: tasks
+
+taskexecutiontimeseconds: 120
