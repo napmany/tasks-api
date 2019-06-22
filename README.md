@@ -9,3 +9,10 @@ Create `config.yml` based on `config-example.yml` inside `api` directory.
 docker-compose build
 docker-compose up
 ```
+
+## Tests
+
+From `api` directory:
+``` sh
+go test -v
+```
